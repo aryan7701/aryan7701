@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://aryan7701.io)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif">
 <h1 align="center">Hi 👋, I'm Aryan Agrawal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif">
 
 - 🔭 I’m currently working on **TravelExpi**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aryanagrawal1881@gmail.com**
 
-- ⚡ Fun fact **An CS engineer I loves to solve a problem. If there is no problem, then I will create one and would start solving it.**
+- ⚡ Fun fact **AS an CS engineer I loves to solve a problem. If there is no problem, then I will create one and would start solving it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
