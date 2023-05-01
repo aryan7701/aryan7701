@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-- 🔭 I’m currently working on **TravelExpi**
+- 🔭 I’m currently working on **TravelExpi WebApp**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Google Data Analytics**
 
 - 💬 Ask me about **MERN, Machine Learning**
 
