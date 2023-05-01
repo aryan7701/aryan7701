@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]((https://aryan7701.io)
+[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)](((https://aryan7701.io)
 <h1 align="center">Hi 👋, I'm Aryan Agrawal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
