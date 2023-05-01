@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fantudaa&psig=AOvVaw1w9CxR1w8GU9aEPMzYQriF&ust=1683049788724000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjq_5bX1P4CFQAAAAAdAAAAABAo)](https://aryan7701.io)
+[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)](https://aryan7701.io)
 <h1 align="center">Hi 👋, I'm Aryan Agrawal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif">
