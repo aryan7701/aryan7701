@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://aryan7701.io)
 <h1 align="center">Hi 👋, I'm Aryan Agrawal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 - 🔭 I’m currently working on **TravelExpi WebApp**
