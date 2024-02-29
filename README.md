@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-- 🔭 I’m currently working on **TravelExpi WebApp**
+- 🔭 I’m currently working on **Data Science Field**
 
 - 🌱 I’m currently learning **Google Data Analytics**
 
-- 💬 Ask me about **MERN, Machine Learning**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **aryanagrawal1881@gmail.com**
 
