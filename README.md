@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science Field**
 
-- 🌱 I’m currently learning **Google Data Analytics**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 💬 Ask me about **Machine Learning**
 
